@@ -1,4 +1,4 @@
-# CMOS-ASIC-Design Lab
+# CMOS_ASIC_Design Lab
 
 ## This Lab Deals with Digital Physical Design 
 
